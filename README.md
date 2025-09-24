@@ -8,6 +8,8 @@ El programa funciona así:
 3) El usuario puede dar click en Sortear y se escogerá a un amigo de la list de nombres creada
 4) Se mostrará el nombre seleccionado como Amigo Secreto
 
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/5bf973f8-64af-4681-8e4e-95ddbc423345" />
+
 Si el usuario desea volver a juagr, solo hace falta que ingrese un nombre en el campo y de click en añadir, entonces 
 se reiniciará la lista 
 
@@ -15,3 +17,5 @@ Restricciones:
 1) No duplicados (no hay diferencia entre mayúculas y minúsculas)
 2) No números o caracteres especiales
 3) No vacios ni espacios en blanco
+
+Consulta el procedimiento aquí https://www.youtube.com/watch?v=dY6A28ePc2k
